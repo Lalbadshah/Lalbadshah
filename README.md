@@ -46,7 +46,7 @@ expert users.</samp>
 
 <br>
 
-### <samp>03 // ARSENAL</samp>
+### <samp>03 // STACK</samp>
 
 <samp><b>LANGUAGES</b></samp>
 
@@ -176,7 +176,3 @@ expert users.</samp>
 <samp><b>SITE</b>&emsp;&emsp;<a href="https://prateeks.work">prateeks.work</a><br>
 <b>MAIL</b>&emsp;&emsp;<a href="mailto:me@prateeks.work">me@prateeks.work</a><br>
 <b>LINK</b>&emsp;&emsp;<a href="https://linkedin.com/in/pbhatna/">linkedin.com/in/pbhatna</a></samp>
-
-<br>
-
-<p align="center"><samp>∞ ─────────────────── PB.OPERATIONS.LOG</samp></p>
