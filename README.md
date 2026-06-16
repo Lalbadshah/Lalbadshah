@@ -1,5 +1,5 @@
 <a href="https://prateeks.work">
-  <img src="assets/hero.svg" alt="Prateek Bhatnagar — Engineering · AI research · AI product" width="100%">
+  <img src="assets/hero.gif" alt="Prateek Bhatnagar — Engineering · AI research · AI product" width="100%">
 </a>
 
 <p align="center">
